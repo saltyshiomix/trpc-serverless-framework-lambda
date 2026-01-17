@@ -1,4 +1,5 @@
 {
   "private": true,
-  "name": "trpc-serverless-framework-lambda"
+  "name": "trpc-serverless-framework-lambda",
+  "license": "MIT"
 }
