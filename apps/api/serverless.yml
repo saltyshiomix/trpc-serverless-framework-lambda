@@ -30,6 +30,6 @@ functions:
     handler: src/handlers/app.handler
     events:
       - http:
-          path: '{proxy+}'
+          path: app/{proxy+}
           method: any
           cors: true
