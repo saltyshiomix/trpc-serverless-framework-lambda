@@ -1,5 +1,9 @@
 {
   "private": true,
   "name": "trpc-serverless-framework-lambda",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.0.10",
+    "typescript": "^5.9.3"
+  }
 }
