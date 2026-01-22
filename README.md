@@ -1,5 +1,7 @@
 # trpc-serverless-framework-lambda
 
+![](./docs/images/hero.png)
+
 ## Setup
 
 ```
