@@ -1,4 +1,4 @@
-# trpc-serverless-framework-lambda
+# aws-lambda-trpc-serverless-framework-v3
 
 ![](./docs/images/hero.png)
 
