@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "api",
+  "name": "@aws-lambda-trpc-serverless-framework-v3/api",
   "scripts": {
     "local": "sls offline start --stage=local --reloadHandler"
   },

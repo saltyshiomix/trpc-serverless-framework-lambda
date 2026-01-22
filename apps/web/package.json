@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "web",
+  "name": "@aws-lambda-trpc-serverless-framework-v3/web",
   "scripts": {
     "dev": "next"
   },
